@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Cezary Wojcik. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 /**
  * @brief A simple completion used for handling tapping the notification.
