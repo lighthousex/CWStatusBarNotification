@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		09B533F01EFFD320008AA422 /* CWNotification.h in Headers */ = {isa = PBXBuildFile; fileRef = 09B533EE1EFFD320008AA422 /* CWNotification.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		09B533F91EFFD358008AA422 /* CWStatusBarNotification.h in Headers */ = {isa = PBXBuildFile; fileRef = 09B533F71EFFD358008AA422 /* CWStatusBarNotification.h */; };
+		09B533F91EFFD358008AA422 /* CWStatusBarNotification.h in Headers */ = {isa = PBXBuildFile; fileRef = 09B533F71EFFD358008AA422 /* CWStatusBarNotification.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		09B533FA1EFFD358008AA422 /* CWStatusBarNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 09B533F81EFFD358008AA422 /* CWStatusBarNotification.m */; };
 /* End PBXBuildFile section */
 
